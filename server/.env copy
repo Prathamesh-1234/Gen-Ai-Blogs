@@ -1,0 +1,12 @@
+PORT=3000
+MONGO_URL=mongodb+srv://prathameshchaudhari2008_db_user:yc51WfC2JTNx9lIn@cluster0.1bhdmm9.mongodb.net
+
+IMAGEKIT_PUBLICKEY=public_Y1Ik6BjAoWWPX7IqkYMeeFcHNEo=
+IMAGEKIT_PRIVATEKEY=private_gu9QQZtDR02pY/0q10LFHUWVcHY=
+IMAGEKIT_ENDPOINT=https://ik.imagekit.io/prathamesh2803
+
+JWT_SECRET="my-secret-key"
+
+# Admin credentials
+ADMIN_EMAIL='admin@gamil.com'
+ADMIN_PASSWORD="adminPassword"
